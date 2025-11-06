@@ -9,19 +9,6 @@ Bu proje, bir DevOps eğitim ortamı olarak Flask, Redis, ve Nginx bileşenlerin
 - **Nginx** – Ters proxy olarak Flask uygulamasına gelen istekleri yönlendirir
 - **Docker Compose** – Tüm servisleri tek komutla ayağa kaldırır
 
-## 🧱 Proje Yapısı
-
-docker-compose-lab/
-|-|-web/
-|---|---app.py
-|---|---requirements.txt
-|---|---Dockerfile
-|-|-docker-compose.yml
-|-|-nginx.conf
-|---Vagrantfile
-|---README.md
-
-
 ## ⚙️ Kurulum
 
 Ön koşullar:
