@@ -19,8 +19,8 @@ Bu proje, bir DevOps eğitim ortamı olarak Flask, Redis, ve Nginx bileşenlerin
 
 ### 1. Projeyi klonla
 
-git clone https://github.com/yahusgame/docker-compose-lab.git
-cd docker-compose-lab
+'git clone https://github.com/yahusgame/docker-compose-lab.git'
+'cd docker-compose-lab'
 
 #### 2. Uygulamayı başlat
 vagrant up
