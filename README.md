@@ -12,14 +12,14 @@ Bu proje, bir DevOps eğitim ortamı olarak Flask, Redis, ve Nginx bileşenlerin
 ## 🧱 Proje Yapısı
 
 docker-compose-lab/
-├── web/
-│ ├── app.py
-│ └── requirements.txt
-│ └── Dockerfile
-├── docker-compose.yml
-├── nginx.conf
-├── Vagrantfile
-└── README.md
+|-|-web/
+|---|---app.py
+|---|---requirements.txt
+|---|---Dockerfile
+|-|-docker-compose.yml
+|-|-nginx.conf
+|---Vagrantfile
+|---README.md
 
 
 ## ⚙️ Kurulum
